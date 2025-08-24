@@ -1,15 +1,17 @@
 {
   "name": "MonToken",
-  "symbol": "poke",
-  "description": "Token Pump.fun",
-  "image": "https://raw.githubusercontent.com/Reyj15/pumpfun-assets/main/ChatGPT%20Image%20Aug%2022,%202025,%2004_47_05%20PM.png",
-  "external_url": "https://twitter.com/https://x.com/fricthefrog/status/1958927278764957778",
+  "symbol": "IRON",
+  "description": "Token Pump.fun — Suis-nous sur Twitter : https://x.com/frichthefrog",
+  "image": "https://raw.githubusercontent.com/Reyj15/pumpfun-assets/main/6d040799171aa816653bbdac7597612f_original.png",
+  "external_url": "https://x.com/frichthefrog",
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Reyj15/pumpfun-assets/main/ChatGPT%20Image%20Aug%2022,%202025,%2004_47_05%20PM.png",
+        "uri": "https://raw.githubusercontent.com/Reyj15/pumpfun-assets/main/6d040799171aa816653bbdac7597612f_original.png",
         "type": "image/png"
       }
     ]
   }
 }
+
+
