@@ -1,17 +1,15 @@
 {
   "name": "MonToken",
-  "symbol": "IRON",
+  "symbol": "RON",
   "description": "Token Pump.fun — Suis-nous sur Twitter : https://x.com/frichthefrog",
-  "image": "https://raw.githubusercontent.com/Reyj15/pumpfun-assets/main/6d040799171aa816653bbdac7597612f_original.png",
+  "image": "https://i.imgur.com/6d2Fqsq.png",
   "external_url": "https://x.com/frichthefrog",
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Reyj15/pumpfun-assets/main/6d040799171aa816653bbdac7597612f_original.png",
+        "uri": "https://i.imgur.com/6d2Fqsq.png",
         "type": "image/png"
       }
     ]
   }
 }
-
-
