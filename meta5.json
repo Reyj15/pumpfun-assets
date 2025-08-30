@@ -1,0 +1,14 @@
+{
+  "name": "MonToken",
+  "symbol": "SPOOKY",
+  "description": "Token Pump.fun",
+  "image": "https://raw.githubusercontent.com/Reyj15/pumpfun-assets/ab51ab90535890c8bb60523f5da4a7a91fca1d6a/7lw4olV.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Reyj15/pumpfun-assets/ab51ab90535890c8bb60523f5da4a7a91fca1d6a/7lw4olV.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
