@@ -1,9 +1,8 @@
 {
   "name": "MonToken",
-  "symbol": "penguins",
-  "description": "https://x.com/pudgypenguins/status/1961087099483930988",
+  "symbol": "BTOS",
+  "description": "Token Pump.fun",
   "image": "https://raw.githubusercontent.com/Reyj15/pumpfun-assets/11c8074d19d81e29af147a0a8189c4abda2cfc78/GzcuUp9XsAAsrRS.png",
-  "external_url": "https://x.com/pudgypenguins/status/1961087099483930988",
   "properties": {
     "files": [
       {
