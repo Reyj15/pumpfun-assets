@@ -1,0 +1,14 @@
+{
+  "name": "MonToken",
+  "symbol": "STNDTALL",
+  "description": "Token Pump.fun",
+  "image": "https://raw.githubusercontent.com/Reyj15/pumpfun-assets/db9df58df0451da5a024ebc22c154062cd468cdf/BBBKaIo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Reyj15/pumpfun-assets/db9df58df0451da5a024ebc22c154062cd468cdf/BBBKaIo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
